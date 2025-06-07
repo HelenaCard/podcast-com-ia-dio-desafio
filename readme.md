@@ -26,4 +26,6 @@ Neste Desafio do Bootcamp de prompts inteligentes da plataforma DIO.me realizaei
   - Podcast áudio - áudio, podcast editado e informações das edições.
  
   - Imagens - capa - mapa mental de engenharia de prompt.
+ 
+  ## Podcast publicado - [Escute aqui](https://open.spotify.com/episode/1Ky7GPjzpizbWUlkwFCsmc?si=VdlKeBQqRIGxmzASSRw3FA)
 
