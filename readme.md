@@ -6,7 +6,7 @@ Neste desafio do Bootcamp de Prompts Inteligentes da plataforma DIO.me, realizei
 
 - Tenha uma conta no google e pesquise pela ferramenta;
   
-- Crie um novo Notbook
+- Clique em criar "novo Notbook"
   
 ![image](https://github.com/user-attachments/assets/344d05b1-70dd-44eb-b492-024c44da7b8d)
 
