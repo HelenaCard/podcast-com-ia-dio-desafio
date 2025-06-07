@@ -4,9 +4,9 @@ Neste desafio do Bootcamp de Prompts Inteligentes da plataforma DIO.me, realizei
 
 ### Como utilizar o NotbookLM
 
-- Tenha uma conta no google e pesquise pela ferramenta;
+- Tenha uma conta no google e pesquise pela ferramenta
   
-- Clique em criar "novo Notbook"
+- Clique em "criar novo" para começar
   
 ![image](https://github.com/user-attachments/assets/344d05b1-70dd-44eb-b492-024c44da7b8d)
 
