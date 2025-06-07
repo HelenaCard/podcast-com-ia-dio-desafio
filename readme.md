@@ -21,3 +21,9 @@ Neste Desafio do Bootcamp de prompts inteligentes da plataforma DIO.me realizaei
 
   [Mapa Mental](https://notebooklm.google.com/notebook/e75acb1c-42e8-464c-8b9c-0051b3f34ff4)
 
+  ### Pastas
+
+  - Podcast áudio - áudio, podcast editado e informações das edições.
+ 
+  - Imagens - capa - mapa mental de engenharia de prompt.
+
