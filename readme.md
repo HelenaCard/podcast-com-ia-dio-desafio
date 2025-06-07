@@ -1,5 +1,6 @@
 ### Criando um podcast com inteligência artificial de maneira simples e ainda tendo um materia de apoio para os estudos
-Neste Desafio do Bootcamp de prompts inteligentes da plataforma DIO.me realizei um podcast utilizando uma ferramenta chamada [NotbookLM](https://notebooklm.google.com/) da Google. Além de realizar resumos, trazer fontes, mapas mental e outros benefícios ela também cria áudios através desses materiais.
+
+Neste desafio do Bootcamp de Prompts Inteligentes da plataforma DIO.me, realizei um podcast utilizando uma ferramenta chamada [NotebookLM](https://notebooklm.google.com/) da Google. Além de gerar resumos, indicar fontes, criar mapas mentais e oferecer outros benefícios, ela também permite a criação de áudios a partir desses materiais.
 
 ### Como utilizar o NotbookLM
 
